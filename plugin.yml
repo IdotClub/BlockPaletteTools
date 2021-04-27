@@ -1,0 +1,5 @@
+name: BlockPaletteTools
+version: 0.0.1
+author: Blackjack200
+api: 3.0.0
+main: blackjack200\blockpalette\Tools
